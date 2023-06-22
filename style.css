@@ -1,0 +1,23 @@
+body{
+    font-family: "Cormorant Garamond";
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.discover-section{
+    background: #FDFBF5;
+}
+.discover-heading{
+    font-size:36px;
+    color:#222222;
+}
+.span-text{
+    color:#8D6C4C;
+    font-size:18px;
+}
+.discover-wrapper-content-para{
+font-size:22px;
+line-height:1.2;
+color:#222222;
+}
